@@ -36,6 +36,3 @@ export const GifGrid = ({categoria}) => {
 		</>
 	)
 }
-
-{/* <h3>{count}</h3>
-<button onClick={ () => setCount(count + 1)}>Sumar</button> */}
